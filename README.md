@@ -1,6 +1,6 @@
 # Launcher S.G.A
 <p align="center">
-  <a href="https://github.com/DerXerke/Launcher-S.G.A/releases/download/A/Launcher.S.G.A.Setup.exe">
+  <a href="https://github.com/DerXerke/LauncherS.G.A/releases/download/Setupwindows.exe/Launcher.S.G.A.Setup.exe">
     <img src="https://img.shields.io/badge/Windows-Descargar-2ea043?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar para Windows"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
